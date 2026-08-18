@@ -73,6 +73,9 @@ endmodule
 ```
 
 ## Expected Output
+**SIMULATED OUTPUT**
+<img width="1631" height="886" alt="Screenshot 2026-07-30 104704" src="https://github.com/user-attachments/assets/4e926b5b-b04a-468e-888a-b26577201c53" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/567392b2-67a0-4904-9611-fb092aa51f58" />
 
 
 
